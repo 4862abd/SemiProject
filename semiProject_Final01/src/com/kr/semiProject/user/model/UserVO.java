@@ -10,6 +10,11 @@ public class UserVO {
 	private String userAddr;
 	private String userEmail;
 	private int userRole;
+
+
+	private int forkTestValue;
+	private int forkTestValue2;
+
 	
 	public String getUserId() {		return userId;	}
 	public void setUserId(String userId) {		this.userId = userId;	}

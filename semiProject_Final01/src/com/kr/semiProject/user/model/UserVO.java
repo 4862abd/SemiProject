@@ -13,6 +13,7 @@ public class UserVO {
 
 
 	private int forkTestValue;
+	private int forkTestValue2;
 
 	
 	public String getUserId() {		return userId;	}
